@@ -8,4 +8,4 @@ Graphviz (dot) language support for Visual Studio Code
 
 In Mac use `command+shift+v` - to visualize the dot file
 
-![]('dot.png')
+![](dot.png)
